@@ -1,5 +1,6 @@
 # first-repo
 This is my new repository
 <br>
-Author- Katyayani pandit<br>
+Author- Aditya kumar
+<br>
 Pursuing- B.tech
